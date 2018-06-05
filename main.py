@@ -1,2 +1,3 @@
+#!/usr/bin/python3
 
-print(daniele)
+print('Ciao a tutti')
