@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-bla bla
-=======
 #!/usr/bin/env python
 
+print ('sono bellissimo')
