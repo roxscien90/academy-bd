@@ -1,4 +1,4 @@
 #!/usr/bin/env python
 
-print ('sono bellissiaaaao')
+print ('sono bellissimo')
 

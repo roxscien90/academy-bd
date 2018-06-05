@@ -11,7 +11,7 @@ int main(int argc , char * argv[]){
 	  scanf("%s" , user);
 	printf("hello %s!!",user);
 
-
+	puts("fine del test");
 
 
 }
